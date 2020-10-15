@@ -1,0 +1,175 @@
+/* Large devices  */
+@media (max-width: 1199.98px) {
+  .btn-text a {
+    font-size: 10px;
+  }
+
+  .btn-text p {
+    font-size: 11px;
+  }
+  .banner-overly {
+    padding-top: 130px;
+    padding-bottom: 160px;
+  }
+  .banner-text p {
+    font-size: 12px;
+
+    line-height: 20px;
+    padding-top: 13px;
+    padding-bottom: 110px;
+  }
+  .feedback-text h3 {
+    font-size: 23px;
+  }
+  .footer-icon i {
+    margin: 0 2px;
+  }
+  .footer-text p {
+    font-size: 13px;
+  }
+  .price-text h3 {
+    font-size: 22px;
+  }
+}
+
+/* Medium devices  */
+@media (max-width: 991.98px) {
+  .navbar-toggler i {
+    color: #ffffff;
+    font-size: 30px;
+  }
+  .navbar-nav {
+    text-align: center;
+    padding: 10px 0;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-bottom: 10px;
+  }
+  .navbar {
+    background: #353535;
+    position: static;
+  }
+  .get-start {
+    margin-left: 45%;
+  }
+  .navbar-light .navbar-nav .nav-link::after {
+    bottom: 5px;
+    left: 50%;
+  }
+
+  .banner-overly {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .banner-text p {
+    padding-bottom: 140px;
+  }
+
+  .price-item {
+    margin-top: 50px;
+  }
+}
+
+/* Small devices */
+@media (max-width: 767.98px) {
+  .navbar-toggler i {
+    color: #ffffff;
+    font-size: 30px;
+  }
+  .navbar-nav {
+    text-align: center;
+    padding: 10px 0;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-bottom: 10px;
+  }
+  .navbar {
+    background: #353535;
+    position: static;
+  }
+  .get-start {
+    margin-left: 44%;
+  }
+  .navbar-light .navbar-nav .nav-link::after {
+    bottom: 5px;
+    left: 48%;
+  }
+  .navbar-brand img {
+    padding-bottom: 20px;
+  }
+  .banner-overly {
+    padding-top: 145px;
+    padding-bottom: 100px;
+  }
+  .banner-text h1 {
+    font-size: 40px;
+  }
+  .banner-text h3 {
+    font-size: 26px;
+  }
+  .banner-text p {
+    font-size: 12px;
+    padding-bottom: 140px;
+  }
+  .banner-btn {
+    margin-top: 20px;
+  }
+  .price-item {
+    margin-top: 50px;
+  }
+}
+/* 
+Extra small devices  */
+@media (max-width: 575.98px) {
+  .navbar-toggler i {
+    color: #ffffff;
+    font-size: 30px;
+  }
+  .navbar-nav {
+    text-align: center;
+    padding: 10px 0;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-bottom: 10px;
+  }
+  .navbar {
+    background: #353535;
+    position: static;
+  }
+  .get-start {
+    margin-left: 39%;
+  }
+  .navbar-light .navbar-nav .nav-link::after {
+    bottom: 5px;
+    left: 44%;
+  }
+  .navbar-brand img {
+    padding-bottom: 20px;
+  }
+  .banner-overly {
+    padding-top: 110px;
+    padding-bottom: 60px;
+  }
+  .banner-text h1 {
+    font-size: 40px;
+  }
+  .banner-text h3 {
+    font-size: 26px;
+  }
+  .banner-btn {
+    margin-top: 20px;
+  }
+  .price-item {
+    margin-top: 50px;
+  }
+  .team-item {
+    margin-top: 20px;
+  }
+  .footer-icon i {
+    margin: 0 2px;
+  }
+  .footer-text p {
+    font-size: 13px;
+  }
+}
